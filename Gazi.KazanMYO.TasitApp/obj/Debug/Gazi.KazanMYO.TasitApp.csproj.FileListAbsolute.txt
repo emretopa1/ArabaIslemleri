@@ -1,0 +1,12 @@
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\bin\Debug\Gazi.KazanMYO.TasitApp.exe.config
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\bin\Debug\Gazi.KazanMYO.TasitApp.exe
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\bin\Debug\Gazi.KazanMYO.TasitApp.pdb
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\obj\Debug\Gazi.KazanMYO.TasitApp.csprojAssemblyReference.cache
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\obj\Debug\Gazi.KazanMYO.TasitApp.csproj.CoreCompileInputs.cache
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\obj\Debug\Gazi.KazanMYO.TasitApp.exe
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\obj\Debug\Gazi.KazanMYO.TasitApp.pdb
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\bin\Debug\Tasit.dll
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\bin\Debug\Tasit.pdb
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\obj\Debug\Gazi.KazanMYO.TasitApp.csproj.CopyComplete
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\bin\Debug\DosyaIslemleri.dll
+C:\Users\ش\source\repos\Gazi.KazanMYO.TasitApp\Gazi.KazanMYO.TasitApp\bin\Debug\DosyaIslemleri.pdb
